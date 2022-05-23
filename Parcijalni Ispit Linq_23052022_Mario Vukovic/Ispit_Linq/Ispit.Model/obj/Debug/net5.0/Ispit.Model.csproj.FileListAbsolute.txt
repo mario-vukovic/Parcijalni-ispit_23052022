@@ -1,0 +1,12 @@
+C:\Users\WindowsUser\Desktop\VS\Ispit_Linq\Ispit.Model\bin\Debug\net5.0\Ispit.Model.deps.json
+C:\Users\WindowsUser\Desktop\VS\Ispit_Linq\Ispit.Model\bin\Debug\net5.0\Ispit.Model.dll
+C:\Users\WindowsUser\Desktop\VS\Ispit_Linq\Ispit.Model\bin\Debug\net5.0\Ispit.Model.pdb
+C:\Users\WindowsUser\Desktop\VS\Ispit_Linq\Ispit.Model\obj\Debug\net5.0\Ispit.Model.csproj.AssemblyReference.cache
+C:\Users\WindowsUser\Desktop\VS\Ispit_Linq\Ispit.Model\obj\Debug\net5.0\Ispit.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WindowsUser\Desktop\VS\Ispit_Linq\Ispit.Model\obj\Debug\net5.0\Ispit.Model.AssemblyInfoInputs.cache
+C:\Users\WindowsUser\Desktop\VS\Ispit_Linq\Ispit.Model\obj\Debug\net5.0\Ispit.Model.AssemblyInfo.cs
+C:\Users\WindowsUser\Desktop\VS\Ispit_Linq\Ispit.Model\obj\Debug\net5.0\Ispit.Model.csproj.CoreCompileInputs.cache
+C:\Users\WindowsUser\Desktop\VS\Ispit_Linq\Ispit.Model\obj\Debug\net5.0\Ispit.Model.dll
+C:\Users\WindowsUser\Desktop\VS\Ispit_Linq\Ispit.Model\obj\Debug\net5.0\refint\Ispit.Model.dll
+C:\Users\WindowsUser\Desktop\VS\Ispit_Linq\Ispit.Model\obj\Debug\net5.0\Ispit.Model.pdb
+C:\Users\WindowsUser\Desktop\VS\Ispit_Linq\Ispit.Model\obj\Debug\net5.0\ref\Ispit.Model.dll
